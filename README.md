@@ -23,3 +23,5 @@ By: Suraj Hussain, Shafil Alam, and Benito Karkada
 Made in Flutter
 
 Works in iOS and Android
+
+UPDATE: As of 2023, Students Study Better has been taken down from the Apple App Store
